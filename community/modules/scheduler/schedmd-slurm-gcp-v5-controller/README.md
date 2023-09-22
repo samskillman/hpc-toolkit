@@ -17,7 +17,7 @@ controller for optimal performance at different scales.
 >
 > ```shell
 > # Install Python3 and run
-> pip3 install -r https://raw.githubusercontent.com/SchedMD/slurm-gcp/5.8.0/scripts/requirements.txt
+> pip3 install -r https://raw.githubusercontent.com/SchedMD/slurm-gcp/5.9.0/scripts/requirements.txt
 > ```
 
 [SchedMD/slurm-gcp]: https://github.com/SchedMD/slurm-gcp/tree/5.9.0
@@ -94,9 +94,9 @@ This option has some additional requirements:
   development environment deploying the cluster. One can use following commands:
 
   ```bash
-  pip3 install -r https://raw.githubusercontent.com/SchedMD/slurm-gcp/5.8.0/scripts/requirements.txt
+  pip3 install -r https://raw.githubusercontent.com/SchedMD/slurm-gcp/5.9.0/scripts/requirements.txt
   ```
-  
+
   For more information, see the [description][optdeps] of this module.
 
 [optdeps]: https://github.com/SchedMD/slurm-gcp/tree/5.9.0/terraform/slurm_cluster#optional
